@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Navi_Menu">
+
+    <item
+        android:id="@+id/tab_don1"
+        android:enabled="true"
+        android:icon="@drawable/ic_don1"
+        android:title="기부처"/>
+
+    <item
+        android:id="@+id/tab_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="홈"/>
+
+    <item
+        android:id="@+id/tab_don2"
+        android:enabled="true"
+        android:icon="@drawable/ic_don2"
+        android:title="기부하기"/>
+</menu>
